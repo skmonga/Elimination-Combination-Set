@@ -1,2 +1,2 @@
 # Elimination-Combination-Set
-A set implementation using elimination and combination techniques from DECS
+The set implementation uses the elimination combination layer from DECS which is available at https://arxiv.org/pdf/1106.6304.pdf. 
